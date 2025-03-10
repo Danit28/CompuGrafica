@@ -1,0 +1,65 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Extract18
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Smurfcat_Tex_backpk_BaseColor.png
+map_Ns C:/Smurfcat_Tex_backpk_Roughness.png
+map_Bump -bm 1.000000 C:/Smurfcat_Tex_backpk_Normal.png
+
+newmtl Fibers16
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl PM3D_Sphere3D1_2
+Ns 699.504150
+Ka 1.000000 1.000000 1.000000
+Kd 0.033822 0.000000 0.041607
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl PM3D_Sphere3D2.001
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Smurfcat_Tex_body_BaseColor.png
+map_Ns C:/Smurfcat_Tex_body_Roughness.png
+map_Bump -bm 1.300000 C:/Smurfcat_Tex_body_Normal.png
+
+newmtl PM3D_Sphere3D2_1
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Smurfcat_Tex_snail_BaseColor.png
+map_Ns C:/Smurfcat_Tex_snail_Roughness.png
+map_Bump -bm 1.000000 C:/Smurfcat_Tex_snail_Normal.png
+
+newmtl bluesmurfcat
+Ns 946.198364
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
